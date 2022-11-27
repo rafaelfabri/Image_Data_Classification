@@ -1,5 +1,9 @@
 **Image Data Classification**
 
+<p align="center">
+<img src = "https://wallpapercave.com/wp/wp6690886.jpg"
+     </p>
+
 Olá tudo bem! 
 
 Nesse projeto vamos utilizar um conjunto de dados de imagens, disponibilizado na plataforma de competições Kaggle, denomimado **Intel Image Classification**.
@@ -18,6 +22,10 @@ As imagens são separadas em 6 classes diferentes:
 * 4 - sea;
 * 5 - street.
 
+  
+ <p align="center">
+<img src = "https://wallpaperaccess.com/full/1667960.jpg"
+     </p>
 
 O intuito é criarmos um modelo de **Aprendizado de Máquina (AM)** para classificar qual classe uma imagem se refere. 
 
@@ -26,3 +34,8 @@ O intuito é criarmos um modelo de **Aprendizado de Máquina (AM)** para classif
 Para isso utilizaremos o *Framework TensorFlow*. O *TensorFlow* é uma biblioteca disponivel em muitas linguagens de programação que possui como o objetivo a realização do pré-processamento de imagens e a criação de Redes Neurais Produndas (*Deep Learning*) para classificação.
 
 Portanto, as técnicas de Redes Neurais que vamos aplicar são Redes Neurais Convolucionais **(*Convolutional Neural Networks - CNN*)**
+
+<p align="center">
+<img src = "https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/tensorflow.png/@@images/image.png"
+     </p>
+   
